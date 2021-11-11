@@ -1,0 +1,24 @@
+{
+    "user": [
+        {
+            "Username": "pragna",
+            "Password": "Dpragu@9",
+            "Profile": {
+                "description": "xyz",
+                "d_o_b": "18-9-2000",
+                "Gender": "female",
+                "Hobbies": "dancing"
+            }
+        },
+        {
+            "Username": "sindhu",
+            "Password": "Sindhu@98",
+            "Profile": {
+                "description": "I love icecrean",
+                "d_o_b": "8/3/98",
+                "Gender": "Female",
+                "Hobbies": "Laughing"
+            }
+        }
+    ]
+}
